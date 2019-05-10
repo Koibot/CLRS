@@ -1,0 +1,8 @@
+#include<iostream>
+#include<queue>
+
+using namespace std;
+
+void DeleteMin(int i) {
+
+}
